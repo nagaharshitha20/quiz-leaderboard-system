@@ -50,8 +50,7 @@ This guarantees accurate score computation.
 
 1. Clone the repository:
 git clone https://github.com/nagaharshitha20/quiz-leaderboard-system.git
-
- cd quiz-leaderboard-system
+cd quiz-leaderboard-system
 
 2. Update Registration Number in QuizLeaderboard.java:
 private static final String REG_NO = "YOUR_REG_NO";
